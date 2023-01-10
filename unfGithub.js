@@ -7,7 +7,11 @@ let rl = readline.createInterface({
   output
 })
 
-const TARGET_USER = await rl.question("Insira seu username do GitHub: ")
+let TARGET_USER = await rl.question("Insira seu username do GitHub: ")
+
+console.log(`GitHub username: ${TARGET_USER}`)
+
+TARGET_USER = await rl.question("Insira novamente seu username do GitHub: ")
 
 console.log(`GitHub username: ${TARGET_USER}`)
 
