@@ -1,0 +1,13 @@
+{
+  "name": "scripts",
+  "version": "1.0.0",
+  "description": "Script para deixar de seguir quem não te segue.",
+  "main": "unfGithub.js",
+  "type": "module",
+  "keywords": [],
+  "author": "github.com/joaov1ct0r",
+  "license": "MIT",
+  "dependencies": {
+    "octokit": "^2.0.10"
+  }
+}
