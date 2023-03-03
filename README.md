@@ -3,9 +3,7 @@
 
 <h2>Sobre</h2>
 
-<h3>
 <p>Script feito em JavaScript utilizando o runtime NodeJS, a biblioteca Ocktokit e ReadLine para deixar de seguir quem não te segue.</p>
-</h3>
 
 <h2>Requisitos</h2>
 
