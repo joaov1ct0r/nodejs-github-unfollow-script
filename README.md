@@ -9,8 +9,6 @@
 
 <ul>
   <li>NodeJS</li>
-  <br>
-  <li>NPM</li>
 </ul>
 
 <h2>MODO DE USO</h2>
